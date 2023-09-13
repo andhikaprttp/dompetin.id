@@ -44,7 +44,8 @@
 		},
 		
 		//Page Loader
-		loader:function() {
+		
+	/*	loader:function() {
             jQuery(".page-loader").fadeOut();
 			if (NaxosOptions.loader) {
 				jQuery(window).on("load", function() {
@@ -52,7 +53,7 @@
 				});
 			}
 		},
-		
+		*/
 		//Animations
 		animations:function() {
 			new WOW().init();
@@ -820,7 +821,7 @@
 					slidesToShow:1,
 					slidesToScroll:1,
 					arrows:false,
-                    fade:true,
+               			        fade:true,
 					asNavFor:".testimonial-nav",
 					rtl:NaxosOptions.rtl
 				});
@@ -1084,6 +1085,5 @@ function customZoomControl(controlDiv, map) {
 function shareTo(network, title, image, url) {
 	return jQuery.NaxosTheme.share(network, title, image, url);
 }
-
 
 
