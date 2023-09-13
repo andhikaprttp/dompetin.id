@@ -1,4 +1,6 @@
 # Dompetin.id
-Landing page
+Landing page untuk [Dompetin.id](https://dompetin.id)
+
+
 
 > Andhika Pratama Putra
