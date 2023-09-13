@@ -4,7 +4,7 @@
 	
 	/* Default Variables */
 	var NaxosOptions = {
-		loader:true,
+		loader:false,
 		navigation:'sticky',	//sticky, default
 		zoomControlDiv:null,
 		mapColor:'',
