@@ -1,4 +1,5 @@
-# Dompetin.id
+![Transparan-1024x362](https://github.com/andhikaprttp/dompetin/assets/120385412/48967bd8-0c75-4144-aeb5-a58ed9e76734)
+
 Kunjungi Website Kami [Dompetin.id](https://dompetin.id)
 <br>
 Download Aplikasi Kami [Play Store](https://play.google.com/store/apps/details?id=com.otoreport.dompetinid) atau App Store [Sedang dalam pengerjaan]
