@@ -20,7 +20,7 @@ a {
 }
 
 a:hover {
-  color: #e5348c;
+  color: #1fbb88;
   text-decoration: none;
 }
 
@@ -120,7 +120,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: rgba(223, 45, 54, 0.9);
+  background-color:#1fbb88;
 }
 
 #header.header-transparent {
@@ -128,7 +128,7 @@ h6 {
 }
 
 #header.header-scrolled {
-  background: rgba(223, 45, 54, 0.9);
+  background-color:#1fbb88;
   height: 60px;
 }
 
@@ -264,7 +264,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #ed3c0d;
+  color: #1fbb88;
 }
 
 .navbar .dropdown:hover>ul {
@@ -325,7 +325,7 @@ h6 {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(223, 45, 54, 0.9);;
+  background-color: #1fbb88;
   transition: 0.3s;
   z-index: 999;
 }
@@ -406,7 +406,7 @@ h6 {
 .navbar-mobile .dropdown .dropdown ul a:hover,
 .navbar-mobile .dropdown .dropdown ul .active:hover,
 .navbar-mobile .dropdown .dropdown ul li:hover>a {
-  color: #ed3c0d;
+  color: #1fbb88;
 }
 
 .navbar-mobile .dropdown>.dropdown-active,
@@ -426,7 +426,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(223, 45, 54, 0.9);
+  background-color:#469a7f;
   position: absolute;
   bottom: 0;
   top: 0;
@@ -626,7 +626,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: red;
+  color: #1fbb88;
 }
 
 /*--------------------------------------------------------------
@@ -743,7 +743,7 @@ body {
 .about .icon-boxes h3 {
   font-size: 28px;
   font-weight: 700;
-  color: #010483;
+  color: #1fbb88;
   margin-bottom: 15px;
 }
 
@@ -758,19 +758,19 @@ body {
   justify-content: center;
   width: 64px;
   height: 64px;
-  border: 2px solid #ed3c0d;
+  border: 2px solid #1fbb88;
   border-radius: 50px;
   transition: 0.5s;
 }
 
 .about .icon-box .icon i {
-  color: #db5677;
+  color: #1fbb88;
   font-size: 32px;
 }
 
 .about .icon-box:hover .icon {
-  background: #ed3c0d;
-  border-color: #ed3c0d;
+  background: #1fbb88;
+  border-color: #1fbb88;
 }
 
 .about .icon-box:hover .icon i {
@@ -790,7 +790,7 @@ body {
 }
 
 .about .icon-box .title a:hover {
-  color: #db5677;
+  color: #20a97c;
 }
 
 .about .icon-box .description {
@@ -944,7 +944,7 @@ body {
   left: 50%;
   transform: translateX(-50%);
   font-size: 20px;
-  background: #e4247e;
+  background: #1fbb88;
   padding: 12px;
   color: #fff;
   border-radius: 50px;
@@ -980,7 +980,7 @@ body {
 .details .content h3 {
   font-weight: 600;
   font-size: 26px;
-  color: #010483;
+  color: #1fbb88;
 }
 
 .details .content ul {
@@ -995,7 +995,7 @@ body {
 .details .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color:  #010483;
+  color:  #1fbb88;
 }
 
 .details .content p:last-child {
@@ -1037,7 +1037,7 @@ body {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(1, 3, 111, 0.8);
+  background-color: #08ba7f;
 }
 
 .testimonials .section-header {
@@ -1112,7 +1112,7 @@ body {
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #db5677;
+  background-color: #1fbb88;
 }
 
 @media (min-width: 1024px) {
@@ -1168,7 +1168,7 @@ body {
   font-weight: 700;
   margin-bottom: 10px;
   font-size: 16px;
-  color: #01036f;
+  color: #1fbb88;
   position: relative;
   padding-bottom: 10px;
 }
@@ -1179,7 +1179,7 @@ body {
   display: block;
   width: 50px;
   height: 1px;
-  background: #0d12fc;
+  background: #1fbb88;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -1188,7 +1188,7 @@ body {
   font-style: italic;
   display: block;
   font-size: 13px;
-  color: #01036f;
+  color: #1fbb88;
 }
 
 .team .member .social {
@@ -1197,11 +1197,11 @@ body {
 
 .team .member .social a {
   transition: color 0.3s;
-  color: #01036f;
+  color: #1fbb88;
 }
 
 .team .member .social a:hover {
-  color: #e4247e;
+  color: #1fbb88;
 }
 
 .team .member .social i {
@@ -1359,7 +1359,7 @@ body {
   position: absolute;
   right: 0;
   left: 20px;
-  color: #db5677;
+  color: #1fbb88;
 }
 
 .faq .faq-list .icon-show,
@@ -1384,12 +1384,12 @@ body {
 }
 
 .faq .faq-list a.collapsed:hover {
-  color: #db5677;
+  color: #1fbb88;
 }
 
 .faq .faq-list a.collapsed .icon-show {
   display: inline-block;
-  color: #db5677;
+  color: #1fbb88;
 }
 
 .faq .faq-list a.collapsed .icon-close {
@@ -1412,7 +1412,7 @@ body {
 
 .contact .info i {
   font-size: 20px;
-  color: #3f43fd;
+  color: #1fbb88;
   float: left;
   width: 44px;
   height: 44px;
@@ -1463,7 +1463,7 @@ body {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #1fbb88;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -1476,7 +1476,7 @@ body {
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #18d26e;
+  background: #1fbb88;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1543,7 +1543,7 @@ body {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background:  #db5677;
+  background:  #1fbb88;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
@@ -1677,7 +1677,7 @@ body {
 }
 
 #footer .copyright {
-  border-top: 1px solid red;
+  border-top: 1px solid teal;
   text-align: center;
   padding-top: 30px;
 }
